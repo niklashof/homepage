@@ -1155,14 +1155,24 @@ strong {
         a:hover {
             transform: rotate(90deg);
             -webkit-transform: rotate(90deg);
-            font-size: 1.6rem;
-            color: white;
+            color: $secondary-color;
             display: inline-block;
             margin-top: 2.75rem;
             margin-left: -1.8rem;
 
         }
-
+    }
+        .feedback-side:hover {
+            position: fixed;
+            visibility: visible;
+            top: 350px;
+            left: 0;
+            padding: 5px;
+            background: white;
+            font-size: 1.5rem;
+            font-family: $font-family-menu;
+            height: 130px;
+            width: 60px;
     }
     .form-container {
         position: relative;

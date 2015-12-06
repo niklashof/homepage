@@ -314,7 +314,7 @@
 </section>
 <section>
     <div class="route-details-section">
-        <h2>Trip Details</h2>
+        <h2>Itinerary and Trip Details</h2>
         <ul class="accordion" data-accordion>
             <li class="accordion-overview">
                 <a href="#destination_overview"><h3>Destination Overview<span class="accordion-icon"></span>
